@@ -8,5 +8,15 @@
   "verified": true,
   "tries": 0,
   "created_at": "2026-10-11T10:08:54.869Z"
+ },
+ {
+  "id": 2,
+  "username": "ldplayer",
+  "phone": "6282175517018",
+  "hash": "b3f0aca266135837f113dcc01597a9d2f3e43e683db70373d67b6858cd5d3bc3",
+  "otp": "819019",
+  "verified": false,
+  "tries": 0,
+  "created_at": "2026-10-11T10:26:43.320Z"
  }
 ]
