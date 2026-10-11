@@ -5,8 +5,8 @@
   "phone": "48666666672",
   "hash": "0056c14f6c6f05cfca33d9593a65d42b6004ec8556dc5814ffa1ad3fb4458ee1",
   "otp": "224938",
-  "verified": false,
-  "tries": 1,
+  "verified": true,
+  "tries": 0,
   "created_at": "2026-10-11T05:02:32.232Z"
  }
 ]
