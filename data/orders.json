@@ -20,7 +20,7 @@
   "qty": 1,
   "total": 15000000,
   "payment": "BNI",
-  "status": "menunggu",
+  "status": "ditolak",
   "created_at": "2026-10-11T05:03:56.522Z"
  }
 ]
