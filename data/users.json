@@ -8,5 +8,15 @@
   "verified": true,
   "tries": 0,
   "created_at": "2026-10-11T10:08:54.869Z"
+ },
+ {
+  "id": 2,
+  "username": "axio",
+  "phone": "6282175517218",
+  "hash": "8b18351c35b582a5bfb36924abc2839ee421c94f39ec780131feff538aec70a9",
+  "otp": "818657",
+  "verified": false,
+  "tries": 0,
+  "created_at": "2026-10-11T11:18:00.771Z"
  }
 ]
