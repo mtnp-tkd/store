@@ -8,15 +8,5 @@
   "verified": true,
   "tries": 0,
   "created_at": "2026-10-11T10:08:54.869Z"
- },
- {
-  "id": 2,
-  "username": "pajar",
-  "phone": "6283170486832",
-  "hash": "49c77de88e18b5e8c3974faaedb6978159dbb6f0e0f9fe48ce69bebe72ae866f",
-  "otp": "321679",
-  "verified": true,
-  "tries": 0,
-  "created_at": "2026-10-11T11:59:36.287Z"
  }
 ]
