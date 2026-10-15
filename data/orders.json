@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "id": 4,
+  "username": "haoo",
+  "phone": "6282175517018",
+  "product_id": 2,
+  "product_name": "BODY PROTECTOR MTNP HEXA2",
+  "qty": 1,
+  "total": 230000,
+  "payment": "BNI",
+  "addr": {
+   "name": "haoo",
+   "country": "Indonesia",
+   "zip": "33333",
+   "phone": "6282175517018",
+   "address": "Jalan Muara kambangan 23, Padang Sumatera Barat Indonesia (depan TOKO SINAR BANGUN)",
+   "city": "Padang",
+   "province": "Sumatra Barat",
+   "courier": "INDAH Express"
+  },
+  "status": "menunggu",
+  "created_at": "2026-10-15T17:20:41.770Z"
+ }
+]
