@@ -18,9 +18,10 @@
    "province": "Sumatra Barat",
    "courier": "INDAH Express"
   },
-  "status": "diantar",
+  "status": "tiba",
   "created_at": "2026-10-15T17:20:41.770Z",
   "note": "ESTIMASI TIBA 1 HARI LAGI",
-  "note_at": "2026-10-15T17:22:56.934Z"
+  "note_at": "2026-10-15T17:22:56.934Z",
+  "arrived_at": "2026-10-15T17:23:22.769Z"
  }
 ]
