@@ -19,5 +19,15 @@
   "verified": true,
   "tries": 0,
   "created_at": "2026-10-15T17:18:36.365Z"
+ },
+ {
+  "id": 3,
+  "username": "pajar",
+  "phone": "6283170486832",
+  "hash": "49c77de88e18b5e8c3974faaedb6978159dbb6f0e0f9fe48ce69bebe72ae866f",
+  "otp": "324353",
+  "verified": false,
+  "tries": 0,
+  "created_at": "2026-10-16T10:20:07.263Z"
  }
 ]
